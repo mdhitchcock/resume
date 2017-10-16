@@ -159,14 +159,14 @@ Despite all these years of learning technologies, some of which have retired, so
 
 # Education
 
- Reed College, Portland, Oregon
- B.A. Biology, May 1989
- Thesis: Attempted Isolation of Two Arginine Catabolism Genes from the Pathogenic Yeast Candida albicans
+Reed College, Portland, Oregon  
+B.A. Biology, May 1989  
+Thesis: Attempted Isolation of Two Arginine Catabolism Genes from the Pathogenic Yeast Candida albicans
 
- Portland State University, Portland Oregon
- CS161 and CS162, Introduction to Computer Science (Fall 1993)
- CS163, Data Structures (Fall 2004)
- CS399J, Advanced Java Programming (Spring 2005)
+Portland State University, Portland Oregon  
+CS161 and CS162, Introduction to Computer Science (Fall 1993)  
+CS163, Data Structures (Fall 2004)  
+CS399J, Advanced Java Programming (Spring 2005)
 
 # Interests
 
