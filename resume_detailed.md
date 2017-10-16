@@ -1,5 +1,5 @@
 # Michael Hitchcock 
-## 13321 SE Linden Lane, Milwaukie OR 97222 / 503.997.0552 / mdhitchcock@gmail.com
+### 13321 SE Linden Lane, Milwaukie OR 97222<br/>503.997.0552 / mdhitchcock@gmail.com
 
 Full stack developer with deep roots in each part of the stack. 
 
@@ -13,13 +13,13 @@ I remain keenly interested in continuing to learn this space and tackling the ne
 
 * Expert: Javascript, HTML, DOM, JSON, vi/vim, \*nix, git, regexes
 * Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub
-* Novice: Typescript, Angular2, Less, SASS, ES6, responsive pages
+* Intermediate: Typescript, Angular2, Less, SASS, ES6, responsive pages, Puppet
 * Currently investigating: React, Redux, AWS
 * Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, bugzilla, Redhat, CVS
 
 # Work History
 
-## 2/2008 -- Present: Software Engineer / *Cisco Systems (contractor)*
+### 2/2008 -- Present: Software Engineer / *Cisco Systems (contractor)*
 
 * Many projects over the years, most pertaining to the Cisco dot com (CDC) web site, some pertaining to the Cisco Employee Connection (CEC) internal web site:
 * General Framework tasks
@@ -101,33 +101,33 @@ I remain keenly interested in continuing to learn this space and tackling the ne
   * the app was then expanded so that it could serve up multiple surveys and be seamlessly embedded on partner's websites
   * the workflow included several virtual servers for dev, stage, and blue/green production using a nice CI pipeline that our DevOps team members built
 
-## 5/2003 -- 1/2008: VP, Systems Engineering / *CollegeNET*
+### 5/2003 -- 1/2008: VP, Systems Engineering / *CollegeNET*
 
 * In addition to managing the Systems group, I also started managing the Web Development group.
 * After two years of managing both groups, I had rebuilt the Systems group into a much more effective and high-morale team. I decided I needed to focus on the Web Development group, and worked with the CEO to promote a senior SysAdmin to manage the IT staff.
 * On a daily basis, I worked closely with Web Development to help them with ever-growing customer requirements. I could add features to the Forms Engine, to the forms markup language, and write tools that continue to streamline a very intensive workflow. The group was very involved in the requirements and spec design of these new features.
 * This means on a daily basis I was designing and coding new features or enhancements to adapt the Forms Engine as needed, and released new code to production almost daily. Being able to support my team this way was very satisfying, especially when they were part of the process.
 
-## 8/2000 -- 4/2003: Associate VP, Systems Engineering / *CollegeNET*
+### 8/2000 -- 4/2003: Associate VP, Systems Engineering / *CollegeNET*
 * Put together and managed a new team comprised of IT Services, Database Services, and senior engineers. 
 * Introduced bug tracking company wide -- installed and configured bugzilla, advocated and educated others on it; required all requests for IT and Forms Engine be made via bugzilla; now it is indispensable to our development process
 * Introduced wiki, IRC, and time management skills. Built an intranet server to host these services and build cross-team communication and effectiveness.
 * Ongoing extensive design and coding on the Forms Engine.
 * Initiated a massive cross-team effort to streamline the architecture; identified and refactored or rewrote much archaic code that was keeping us on old versions of the OS, etc.
 
-## 11/1999 -- 7/2000: Chief Architect, Internet Engineering / *CollegeNET*
+### 11/1999 -- 7/2000: Chief Architect, Internet Engineering / *CollegeNET*
 * Established new infrastructure standards to abstract web application code from direct database connections by introducing servlet middleware.
 * Completely rebuilt the Forms Engine a third time to better incorporate new features, allow better and more flexible configuration across clusters, and to use the new middleware layer.
 * Actively involved in research of new technologies, frameworks and architectures.
 * Introduced CVS company-wide for software versioning -- set up the CVS server and migrated existing RCS files so that their versioning and comment history was preserved; trained and advocated others in how to use
 
-## 9/1997 -- 10/1999: Senior Software Engineer / *CollegeNET*
+### 9/1997 -- 10/1999: Senior Software Engineer / *CollegeNET*
 * Early adopter of XML, rebuilt the Forms Engine from the ground up to use a markup language I designed for form descriptions.
 * Added extensive data validation and a logic rules language to the Forms Engine.
 * Researched, designed, built, tested, and deployed the webserver architecture still in use -- clustered mod_perl/Apache servers on the backend, and lightweight caching reverse proxies on the front end.
 * As the Web Development group grew, increased support to aid their workflow via engine features, tools, internal CGIs, documentation and classes.
 
-## 9/1996 -- 8/1997: Software Engineer / *CollegeNET*
+### 9/1996 -- 8/1997: Software Engineer / *CollegeNET*
 * Met with other engineers to brainstorm and write specifications.
 * Started a formal requirements capture process to improve specifications and include input from Sales and Marketing.
 * Learned the product code from the inside out -- commenting, documenting, and testing the code as I progressed up the stack.
@@ -136,19 +136,19 @@ I remain keenly interested in continuing to learn this space and tackling the ne
 * Completely rewrote the ApplyWeb scripts into a Forms Engine.
 * Started work on writing the patent specification for the Forms Engine.
 
-## 8/1995 -- 8/1996: Network Manager / *CollegeNET*
+### 8/1995 -- 8/1996: Network Manager / *CollegeNET*
 * Rebuilt the corporate network as the company tripled in staff; included building out the new site, connecting the network to the internet via a bastion host firewall, and implementing NIS and NFS.
 * Managed the conversion from a homegrown groupware to Lotus Notes, became Lotus Notes certified and managed the Notes infrastructure, including email.
 * Migrated all Wintel boxes to Windows95 (to get them reliably on the network) and standardized equipment specs and purchasing procedures.
 * Customer technical support
 * Internal technical support -- always looking for ways to help colleagues, wrote many scripts to streamline Marketing and Administration tasks.
 
-## 3/1995 -- 7/1995: Systems Engineer / *CollegeNET*
+### 3/1995 -- 7/1995: Systems Engineer / *CollegeNET*
 * Responsible for maintaining diverse Unix, VAX, and Wintel hosts.
 * Internal technical support -- regularly interviewed staff to elicit requirements, discover frustrations. Then worked on designing and implementing solutions to those problems.
 * Worked on the company's nascent website, www.collegenet.com -- configured and operated the web server, also wrote the site's first CGI scripts to transform flat static pages into user-interactive dynamic content, including a simple search engine of college stats.
 
-## 8/1992 -- 2/1995: Technical Support/Network Administrator / *Electronic Technical Publishing*
+### 8/1992 -- 2/1995: Technical Support/Network Administrator / *Electronic Technical Publishing*
 * Designed, installed, and maintained network interconnecting Unix, Macintosh, and Windows systems.
 * Installed and maintained software and hardware; performed incremental and full backups and recoveries.
 * Supported users, trained new and established employees in Unix, TeX, and vi (wrote training materials and documentation, taught in-house classes).
