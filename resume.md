@@ -1,5 +1,5 @@
 # Michael Hitchcock 
-## 13321 SE Linden Lane, Milwaukie OR 97222 / 503.997.0552 / mdhitchcock@gmail.com
+### 13321 SE Linden Lane, Milwaukie OR 97222<br/>503.997.0552 / mdhitchcock@gmail.com
 
 Full stack developer with deep roots in each part of the stack. 
 
@@ -13,18 +13,18 @@ I remain keenly interested in continuing to learn this space and tackling the ne
 
 * Expert: Javascript, HTML, DOM, JSON, vi/vim, \*nix, git, regexes
 * Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub
-* Novice: Typescript, Angular2, Less, SASS, ES6, responsive pages
+* Intermediate: Typescript, Angular2, Less, SASS, ES6, responsive pages, Puppet
 * Currently investigating: React, Redux, AWS
 * Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, bugzilla, Redhat, CVS
 
 # Work History
 
-## Cisco Systems (contractor)
+### Cisco Systems (contractor)
 
   * 2/2008 -- Present: Software Engineer, Interface Design Engineer, Analyst
   * Core framework development and support for the Cisco dot com (CDC) web site and the Cisco Employee Connection (CEC) internal web site -- Javascript, CSS, templates, web services
 
-## CollegeNET
+### CollegeNET
 
   * 5/2003 -- 1/2008: VP, Systems Engineering
   * 8/2000 -- 4/2003: Associate VP, Systems Engineering
@@ -34,7 +34,7 @@ I remain keenly interested in continuing to learn this space and tackling the ne
   * 8/1995 -- 8/1996: Network Manager
   * 3/1995 -- 7/1995: Systems Engineer
 
-## Electronic Technical Publishing
+### Electronic Technical Publishing
 
   * 8/1992 -- 2/1995: Technical Support, SysAdmin, Network Administrator
 
