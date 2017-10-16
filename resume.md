@@ -1,23 +1,21 @@
 # Michael Hitchcock 
 ## 13321 SE Linden Lane, Milwaukie OR 97222 / 503.997.0552 / mdhitchcock@gmail.com
 
-# Summary
-
-I have become a full stack developer with deep roots in each part of the stack. 
+Full stack developer with deep roots in each part of the stack. 
 
 My 25+ years of computer-related work has been a progression through three realms: the first four years I was a UNIX sysadmin and taught myself enough to become network manager for a small tech shop. The next twelve years I worked on 'back-end' server-side programming and built a patented forms engine out of Apache, Perl, Tomcat, Java servlets, and DB2, capable of hosting thousands of college applications and other forms.
 
-And for the last nine and a half years I explored the 'front-end' client-side world of well-crafted dynamic web pages and consuming web services, by mastering Javascript, learning CSS and HTML5, and more recently helping build a single page app with Angular2 and Typescript. 
+For the last nine and a half years I explored the 'front-end' client-side world of well-crafted dynamic web pages and consuming web services, by mastering Javascript, learning CSS and HTML5, and more recently helping build a single page app with Angular2 and Typescript. 
 
-Despite all these years of learning technologies, some of which have retired, some of which have evolved into newer technologies, I remain keenly interested in continuing to learn this space and tackling the next challenge.
+I remain keenly interested in continuing to learn this space and tackling the next challenge.
 
 # Skills
 
-* Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, bugzilla, Redhat, CVS
 * Expert: Javascript, HTML, DOM, JSON, vi/vim, \*nix, git, regexes
 * Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub
 * Novice: Typescript, Angular2, Less, SASS, ES6, responsive pages
-* Book knowledge: React, Redux, AWS
+* Currently investigating: React, Redux, AWS
+* Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, bugzilla, Redhat, CVS
 
 # Work History
 
