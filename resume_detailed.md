@@ -5,14 +5,16 @@ Full stack developer with deep roots in each part of the stack.
 
 My 25+ years of computer-related work has been a progression through three realms: the first four years I was a UNIX sysadmin and taught myself enough to become network manager for a small tech shop. The next twelve years I worked on 'back-end' server-side programming and built a patented forms engine out of Apache, Perl, Tomcat, Java servlets, and DB2, capable of hosting thousands of college applications and other forms.
 
-For the last nine and a half years I explored the 'front-end' client-side world of well-crafted dynamic web pages and consuming web services, by mastering Javascript, learning CSS and HTML5, and more recently helping build a single page app with Angular2 and Typescript.
+For the last nine and a half years I explored the 'front-end' client-side world of well-crafted dynamic web pages and consuming web services, by mastering Javascript, learning CSS and HTML5, and more recently helping build a single page application with Angular2, Typescript, and MongoDB.
+
+Throughout my career I have enjoyed sharing my discoveries with colleagues and learning from theirs, and also mentoring junior developers to help them direct their creativity and deepen their skills. I have found that one of the best ways to learn is to teach.
 
 I remain keenly interested in continuing to learn this space and tackling the next challenge.
 
 # Skills
 
 * Expert: Javascript, HTML, DOM, JSON, vi/vim, \*nix, git, regexes
-* Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub
+* Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, Jira, Rally, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub, GitLab
 * Intermediate: Typescript, Angular2, Less, Sass, ES6, responsive pages, Puppet, Docker, Vagrant
 * Currently investigating: React, Redux, AWS
 * Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, bugzilla, Redhat, CVS
