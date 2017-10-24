@@ -14,7 +14,7 @@ I remain keenly interested in continuing to learn this space and tackling the ne
 # Skills
 
 * Expert: Javascript, HTML, DOM, JSON, vi/vim, \*nix, git, regexes
-* Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, Jira, Rally, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub, GitLab
+* Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, Jira, Rally, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub, GitLab, Spark, Slack
 * Intermediate: Typescript, Angular2, Less, Sass, ES6, responsive pages, Puppet, Docker, Vagrant
 * Currently investigating: React, Redux, AWS
 * Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, Bugzilla, Redhat, CVS
